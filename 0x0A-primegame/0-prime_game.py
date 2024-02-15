@@ -31,7 +31,6 @@ def isWinner(x, nums):
     return None
 
 
-
 def remove_multiples(ls, x):
     """removes multiple of primes
     """
